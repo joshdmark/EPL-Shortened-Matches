@@ -1,0 +1,935 @@
+﻿game_id,game_dt,home_team,away_team,goal_scorer_team,goal_min,goal_ind,score,result
+1,09/08/2019 14:00,Liverpool,Norwich,LIV,7,1,,4 - 1
+1,09/08/2019 14:00,Liverpool,Norwich,LIV,19,1,,4 - 1
+1,09/08/2019 14:00,Liverpool,Norwich,LIV,28,1,,4 - 1
+1,09/08/2019 14:00,Liverpool,Norwich,LIV,42,1,,4 - 1
+1,09/08/2019 14:00,Liverpool,Norwich,NOR,64,1,4 - 1,4 - 1
+2,10/08/2019 06:30,West Ham,Man City,MC,25,1,,0 - 5
+2,10/08/2019 06:30,West Ham,Man City,MC,51,1,,0 - 5
+2,10/08/2019 06:30,West Ham,Man City,MC,75,1,,0 - 5
+2,10/08/2019 06:30,West Ham,Man City,MC,86,1,,0 - 5
+2,10/08/2019 06:30,West Ham,Man City,MC,90,1,,0 - 5
+2,10/08/2019 06:30,West Ham,Man City,WHU,90,0,0 - 5,0 - 5
+3,10/08/2019 09:00,Bournemouth,Sheffield Utd,BOU,62,1,,1 - 1
+3,10/08/2019 09:00,Bournemouth,Sheffield Utd,SHU,88,1,1 - 1,1 - 1
+4,10/08/2019 09:00,Burnley,Southampton,BUR,63,1,,3 - 0
+4,10/08/2019 09:00,Burnley,Southampton,BUR,70,1,,3 - 0
+4,10/08/2019 09:00,Burnley,Southampton,BUR,75,1,,3 - 0
+4,10/08/2019 09:00,Burnley,Southampton,SOU,90,0,3 - 0,3 - 0
+5,10/08/2019 09:00,Crystal Palace,Everton,CP,90,0,,0 - 0
+5,10/08/2019 09:00,Crystal Palace,Everton,EVE,90,0,0 - 0,0 - 0
+6,10/08/2019 09:00,Watford,Brighton,BHA,28,1,,0 - 3
+6,10/08/2019 09:00,Watford,Brighton,BHA,65,1,,0 - 3
+6,10/08/2019 09:00,Watford,Brighton,BHA,77,1,,0 - 3
+6,10/08/2019 09:00,Watford,Brighton,WAT,90,0,0 - 3,0 - 3
+7,10/08/2019 11:30,Spurs,Aston Villa,AVL,9,1,,3 - 1
+7,10/08/2019 11:30,Spurs,Aston Villa,TOT,73,1,,3 - 1
+7,10/08/2019 11:30,Spurs,Aston Villa,TOT,86,1,,3 - 1
+7,10/08/2019 11:30,Spurs,Aston Villa,TOT,90,1,3 - 1,3 - 1
+8,11/08/2019 08:00,Leicester,Wolves,LC,90,0,,0 - 0
+8,11/08/2019 08:00,Leicester,Wolves,WOL,90,0,0 - 0,0 - 0
+9,11/08/2019 08:00,Newcastle,Arsenal,ARS,58,1,,0 - 1
+9,11/08/2019 08:00,Newcastle,Arsenal,NEW,90,0,0 - 1,0 - 1
+10,11/08/2019 10:30,Man Utd,Chelsea,MU,18,1,,4 - 0
+10,11/08/2019 10:30,Man Utd,Chelsea,MU,65,1,,4 - 0
+10,11/08/2019 10:30,Man Utd,Chelsea,MU,67,1,,4 - 0
+10,11/08/2019 10:30,Man Utd,Chelsea,MU,81,1,,4 - 0
+10,11/08/2019 10:30,Man Utd,Chelsea,CHE,90,0,4-0,4 - 0
+11,17/08/2019 06:30,Arsenal,Burnley,ARS,13,1,,2 - 1
+11,17/08/2019 06:30,Arsenal,Burnley,BUR,43,1,,2 - 1
+11,17/08/2019 06:30,Arsenal,Burnley,ARS,64,1,2 - 1,2 - 1
+12,17/08/2019 09:00,Aston Villa,Bournemouth,BOU,2,1,,1 - 2
+12,17/08/2019 09:00,Aston Villa,Bournemouth,BOU,12,1,,1 - 2
+12,17/08/2019 09:00,Aston Villa,Bournemouth,AVL,71,1,1 - 2,1 - 2
+13,17/08/2019 09:00,Brighton,West Ham,WHU,61,1,,1 - 1
+13,17/08/2019 09:00,Brighton,West Ham,BHA,65,1,1 - 1,1 - 1
+14,17/08/2019 09:00,Everton,Watford,EVE,10,1,,1 - 0
+14,17/08/2019 09:00,Everton,Watford,WAT,90,0,1-0,1 - 0
+15,17/08/2019 09:00,Norwich,Newcastle,NOR,32,1,,3 - 1
+15,17/08/2019 09:00,Norwich,Newcastle,NOR,63,1,,3 - 1
+15,17/08/2019 09:00,Norwich,Newcastle,NOR,75,1,,3 - 1
+15,17/08/2019 09:00,Norwich,Newcastle,NEW,90,1,3 - 1,3 - 1
+16,17/08/2019 09:00,Southampton,Liverpool,LIV,45,1,,1 - 2
+16,17/08/2019 09:00,Southampton,Liverpool,LIV,71,1,,1 - 2
+16,17/08/2019 09:00,Southampton,Liverpool,SOU,83,1,1 - 2,1 - 2
+17,17/08/2019 11:30,Man City,Spurs,MC,20,1,,2 - 2
+17,17/08/2019 11:30,Man City,Spurs,TOT,23,1,,2 - 2
+17,17/08/2019 11:30,Man City,Spurs,MC,35,1,,2 - 2
+17,17/08/2019 11:30,Man City,Spurs,TOT,56,1,2 - 2,2 - 2
+18,18/08/2019 08:00,Sheffield Utd,Crystal Palace,SHU,47,1,,1 - 0
+18,18/08/2019 08:00,Sheffield Utd,Crystal Palace,CP,90,0,1 - 0,1 - 0
+19,18/08/2019 10:30,Chelsea,Leicester,CHE,7,1,,1 - 1
+19,18/08/2019 10:30,Chelsea,Leicester,LC,67,1,1 - 1,1 - 1
+20,19/08/2019 14:00,Wolves,Man Utd,MU,27,1,,1 - 1
+20,19/08/2019 14:00,Wolves,Man Utd,WOL,55,1,1 - 1,1 - 1
+21,23/08/2019 14:00,Aston Villa,Everton,AVL,21,1,,2 - 0
+21,23/08/2019 14:00,Aston Villa,Everton,AVL,90,1,,2 - 0
+21,23/08/2019 14:00,Aston Villa,Everton,EVE,90,0,2 - 0,2 - 0
+22,24/08/2019 06:30,Norwich,Chelsea,CHE,3,1,,2 - 3
+22,24/08/2019 06:30,Norwich,Chelsea,NOR,6,1,,2 - 3
+22,24/08/2019 06:30,Norwich,Chelsea,CHE,17,1,,2 - 3
+22,24/08/2019 06:30,Norwich,Chelsea,NOR,30,1,,2 - 3
+22,24/08/2019 06:30,Norwich,Chelsea,CHE,68,1,2 - 3,2 - 3
+23,24/08/2019 09:00,Brighton,Southampton,SOU,55,1,,0 - 2
+23,24/08/2019 09:00,Brighton,Southampton,SOU,90,1,,0 - 2
+23,24/08/2019 09:00,Brighton,Southampton,BHA,90,0,0 - 2,0 - 2
+24,24/08/2019 09:00,Man Utd,Crystal Palace,CP,32,1,,1 - 2
+24,24/08/2019 09:00,Man Utd,Crystal Palace,MU,89,1,,1 - 2
+24,24/08/2019 09:00,Man Utd,Crystal Palace,CP,90,1,1 - 2,1 - 2
+25,24/08/2019 09:00,Sheffield Utd,Leicester,LC,38,1,,1 - 2
+25,24/08/2019 09:00,Sheffield Utd,Leicester,SHU,62,1,,1 - 2
+25,24/08/2019 09:00,Sheffield Utd,Leicester,LC,70,1,1 - 2,1 - 2
+26,24/08/2019 09:00,Watford,West Ham,WHU,3,1,,1 - 3
+26,24/08/2019 09:00,Watford,West Ham,WAT,17,1,,1 - 3
+26,24/08/2019 09:00,Watford,West Ham,WHU,64,1,,1 - 3
+26,24/08/2019 09:00,Watford,West Ham,WHU,73,1,1 - 3,1 - 3
+27,24/08/2019 11:30,Liverpool,Arsenal,LIV,41,1,,3 - 1
+27,24/08/2019 11:30,Liverpool,Arsenal,LIV,49,1,,3 - 1
+27,24/08/2019 11:30,Liverpool,Arsenal,LIV,58,1,,3 - 1
+27,24/08/2019 11:30,Liverpool,Arsenal,ARS,85,1,3 - 1,3 - 1
+28,25/08/2019 08:00,Bournemouth,Man City,MC,15,1,,1 - 3
+28,25/08/2019 08:00,Bournemouth,Man City,MC,43,1,,1 - 3
+28,25/08/2019 08:00,Bournemouth,Man City,BOU,45,1,,1 - 3
+28,25/08/2019 08:00,Bournemouth,Man City,MC,64,1,1 - 3,1 - 3
+29,25/08/2019 10:30,Spurs,Newcastle,NEW,27,1,,0 - 1
+29,25/08/2019 10:30,Spurs,Newcastle,TOT,90,0,0 - 1,0 - 1
+30,25/08/2019 10:30,Wolves,Burnley,BUR,13,1,,1 - 1
+30,25/08/2019 10:30,Wolves,Burnley,WOL,90,1,1 - 1,1 - 1
+31,31/08/2019 06:30,Southampton,Man Utd,MU,10,1,,1 - 1
+31,31/08/2019 06:30,Southampton,Man Utd,SOU,58,1,1 - 1,1 - 1
+32,31/08/2019 09:00,Chelsea,Sheffield Utd,CHE,19,1,,2 - 2
+32,31/08/2019 09:00,Chelsea,Sheffield Utd,CHE,43,1,,2 - 2
+32,31/08/2019 09:00,Chelsea,Sheffield Utd,SHU,46,1,,2 - 2
+32,31/08/2019 09:00,Chelsea,Sheffield Utd,SHU,89,1,2 - 2,2 - 2
+33,31/08/2019 09:00,Crystal Palace,Aston Villa,CP,73,1,,1 - 0
+33,31/08/2019 09:00,Crystal Palace,Aston Villa,AVL,90,0,1 - 0,1 - 0
+34,31/08/2019 09:00,Leicester,Bournemouth,LC,12,1,,3 - 1
+34,31/08/2019 09:00,Leicester,Bournemouth,BOU,15,1,,3 - 1
+34,31/08/2019 09:00,Leicester,Bournemouth,LC,41,1,,3 - 1
+34,31/08/2019 09:00,Leicester,Bournemouth,LC,73,1,3 - 1,3 - 1
+35,31/08/2019 09:00,Man City,Brighton,MC,2,1,,4 - 0
+35,31/08/2019 09:00,Man City,Brighton,MC,42,1,,4 - 0
+35,31/08/2019 09:00,Man City,Brighton,MC,55,1,,4 - 0
+35,31/08/2019 09:00,Man City,Brighton,MC,79,1,,4 - 0
+35,31/08/2019 09:00,Man City,Brighton,BHA,90,0,4 - 0,4 - 0
+36,31/08/2019 09:00,Newcastle,Watford,WAT,2,1,,1 - 1
+36,31/08/2019 09:00,Newcastle,Watford,NEW,41,1,1 - 1,1 - 1
+37,31/08/2019 09:00,West Ham,Norwich,WHU,24,1,,2 - 0
+37,31/08/2019 09:00,West Ham,Norwich,WHU,56,1,,2 - 0
+37,31/08/2019 09:00,West Ham,Norwich,NOR,90,0,2 - 0,2 - 0
+38,31/08/2019 11:30,Burnley,Liverpool,LIV,33,1,,0 - 3
+38,31/08/2019 11:30,Burnley,Liverpool,LIV,37,1,,0 - 3
+38,31/08/2019 11:30,Burnley,Liverpool,LIV,80,1,,0 - 3
+38,31/08/2019 11:30,Burnley,Liverpool,BUR,90,0,0 - 3,0 - 3
+39,01/09/2019 08:00,Everton,Wolves,EVE,5,1,,3 - 2
+39,01/09/2019 08:00,Everton,Wolves,WOL,9,1,,3 - 2
+39,01/09/2019 08:00,Everton,Wolves,EVE,12,1,,3 - 2
+39,01/09/2019 08:00,Everton,Wolves,WOL,75,1,,3 - 2
+39,01/09/2019 08:00,Everton,Wolves,EVE,80,1,3 - 2,3 - 2
+40,01/09/2019 10:30,Arsenal,Spurs,TOT,10,1,,2 - 2
+40,01/09/2019 10:30,Arsenal,Spurs,TOT,40,1,,2 - 2
+40,01/09/2019 10:30,Arsenal,Spurs,ARS,45,1,,2 - 2
+40,01/09/2019 10:30,Arsenal,Spurs,ARS,71,1,2 - 2,2 - 2
+41,14/09/2019 06:30,Liverpool,Newcastle,NEW,7,1,,3 - 1
+41,14/09/2019 06:30,Liverpool,Newcastle,LIV,28,1,,3 - 1
+41,14/09/2019 06:30,Liverpool,Newcastle,LIV,40,1,,3 - 1
+41,14/09/2019 06:30,Liverpool,Newcastle,LIV,72,1,3 - 1,3 - 1
+42,14/09/2019 09:00,Brighton,Burnley,BHA,51,1,,1 - 1
+42,14/09/2019 09:00,Brighton,Burnley,BUR,90,1,1 - 1,1 - 1
+43,14/09/2019 09:00,Man Utd,Leicester,MU,8,1,,1 - 0
+43,14/09/2019 09:00,Man Utd,Leicester,LC,90,0,1 - 0,1 - 0
+44,14/09/2019 09:00,Sheffield Utd,Southampton,SOU,66,1,,0 - 1
+44,14/09/2019 09:00,Sheffield Utd,Southampton,SHU,90,0,0 - 1,0 - 1
+45,14/09/2019 09:00,Spurs,Crystal Palace,TOT,10,1,,4 - 0
+45,14/09/2019 09:00,Spurs,Crystal Palace,TOT,21,1,,4 - 0
+45,14/09/2019 09:00,Spurs,Crystal Palace,TOT,23,1,,4 - 0
+45,14/09/2019 09:00,Spurs,Crystal Palace,TOT,42,1,,4 - 0
+45,14/09/2019 09:00,Spurs,Crystal Palace,CP,90,0,4 - 0,4 - 0
+46,14/09/2019 09:00,Wolves,Chelsea,CHE,31,1,,2 - 5
+46,14/09/2019 09:00,Wolves,Chelsea,CHE,34,1,,2 - 5
+46,14/09/2019 09:00,Wolves,Chelsea,CHE,41,1,,2 - 5
+46,14/09/2019 09:00,Wolves,Chelsea,CHE,55,1,,2 - 5
+46,14/09/2019 09:00,Wolves,Chelsea,WOL,69,1,,2 - 5
+46,14/09/2019 09:00,Wolves,Chelsea,WOL,85,1,,2 - 5
+46,14/09/2019 09:00,Wolves,Chelsea,CHE,90,1,2 - 5,2 - 5
+47,14/09/2019 11:30,Norwich,Man City,NOR,18,1,,3 - 2
+47,14/09/2019 11:30,Norwich,Man City,NOR,28,1,,3 - 2
+47,14/09/2019 11:30,Norwich,Man City,MC,45,1,,3 - 2
+47,14/09/2019 11:30,Norwich,Man City,NOR,50,1,,3 - 2
+47,14/09/2019 11:30,Norwich,Man City,MC,88,1,3 - 2,3 - 2
+48,15/09/2019 08:00,Bournemouth,Everton,BOU,23,1,,3 - 1
+48,15/09/2019 08:00,Bournemouth,Everton,EVE,44,1,,3 - 1
+48,15/09/2019 08:00,Bournemouth,Everton,BOU,67,1,,3 - 1
+48,15/09/2019 08:00,Bournemouth,Everton,BOU,72,1,3 - 1,3 - 1
+49,15/09/2019 10:30,Watford,Arsenal,ARS,21,1,,2 - 2
+49,15/09/2019 10:30,Watford,Arsenal,ARS,32,1,,2 - 2
+49,15/09/2019 10:30,Watford,Arsenal,WAT,53,1,,2 - 2
+49,15/09/2019 10:30,Watford,Arsenal,WAT,81,1,2 - 2,2 - 2
+50,16/09/2019 14:00,Aston Villa,West Ham,AVL,90,0,,0 - 0
+50,16/09/2019 14:00,Aston Villa,West Ham,WHU,90,0,0 - 0,0 - 0
+51,20/09/2019 14:00,Southampton,Bournemouth,BOU,10,1,,1 - 3
+51,20/09/2019 14:00,Southampton,Bournemouth,BOU,35,1,,1 - 3
+51,20/09/2019 14:00,Southampton,Bournemouth,SOU,53,1,,1 - 3
+51,20/09/2019 14:00,Southampton,Bournemouth,BOU,90,1,1 - 3,1 - 3
+52,21/09/2019 06:30,Leicester,Spurs,TOT,29,1,,2 - 1
+52,21/09/2019 06:30,Leicester,Spurs,LC,69,1,,2 - 1
+52,21/09/2019 06:30,Leicester,Spurs,LC,85,1,2 - 1,2 - 1
+53,21/09/2019 09:00,Burnley,Norwich,BUR,10,1,,2 - 0
+53,21/09/2019 09:00,Burnley,Norwich,BUR,14,1,,2 - 0
+53,21/09/2019 09:00,Burnley,Norwich,NOR,90,0,2 - 0,2 - 0
+54,21/09/2019 09:00,Everton,Sheffield Utd,SHU,40,1,,0 - 2
+54,21/09/2019 09:00,Everton,Sheffield Utd,SHU,79,1,,0 - 2
+54,21/09/2019 09:00,Everton,Sheffield Utd,EVE,90,0,0 - 2,0 - 2
+55,21/09/2019 09:00,Man City,Watford,MC,1,1,,8 - 0
+55,21/09/2019 09:00,Man City,Watford,MC,7,1,,8 - 0
+55,21/09/2019 09:00,Man City,Watford,MC,12,1,,8 - 0
+55,21/09/2019 09:00,Man City,Watford,MC,15,1,,8 - 0
+55,21/09/2019 09:00,Man City,Watford,MC,18,1,,8 - 0
+55,21/09/2019 09:00,Man City,Watford,MC,48,1,,8 - 0
+55,21/09/2019 09:00,Man City,Watford,MC,60,1,,8 - 0
+55,21/09/2019 09:00,Man City,Watford,MC,84,1,,8 - 0
+55,21/09/2019 09:00,Man City,Watford,WAT,90,0,8 - 0,8 - 0
+56,21/09/2019 11:30,Newcastle,Brighton,NEW,90,0,,0 - 0
+56,21/09/2019 11:30,Newcastle,Brighton,BHA,90,0,0 - 0,0 - 0
+57,22/09/2019 08:00,Crystal Palace,Wolves,CP,46,1,,1 - 1
+57,22/09/2019 08:00,Crystal Palace,Wolves,WOL,90,1,1 - 1,1 - 1
+58,22/09/2019 08:00,West Ham,Man Utd,WHU,44,1,,2 - 0
+58,22/09/2019 08:00,West Ham,Man Utd,WHU,84,1,,2 - 0
+58,22/09/2019 08:00,West Ham,Man Utd,MU,90,0,2 - 0,2 - 0
+59,22/09/2019 10:30,Arsenal,Aston Villa,AVL,29,1,,3 - 2
+59,22/09/2019 10:30,Arsenal,Aston Villa,ARS,59,1,,3 - 2
+59,22/09/2019 10:30,Arsenal,Aston Villa,AVL,60,1,,3 - 2
+59,22/09/2019 10:30,Arsenal,Aston Villa,ARS,81,1,,3 - 2
+59,22/09/2019 10:30,Arsenal,Aston Villa,ARS,84,1,3 - 2,3 - 2
+60,22/09/2019 10:30,Chelsea,Liverpool,LIV,14,1,,1 - 2
+60,22/09/2019 10:30,Chelsea,Liverpool,LIV,30,1,,1 - 2
+60,22/09/2019 10:30,Chelsea,Liverpool,CHE,71,1,1 - 2,1 - 2
+61,28/09/2019 06:30,Sheffield Utd,Liverpool,LIV,70,1,,0 - 1
+61,28/09/2019 06:30,Sheffield Utd,Liverpool,SHU,90,0,0 - 1,0 - 1
+62,28/09/2019 09:00,Bournemouth,West Ham,WHU,10,1,,2 - 2
+62,28/09/2019 09:00,Bournemouth,West Ham,BOU,17,1,,2 - 2
+62,28/09/2019 09:00,Bournemouth,West Ham,BOU,46,1,,2 - 2
+62,28/09/2019 09:00,Bournemouth,West Ham,WHU,74,1,2 - 2,2 - 2
+63,28/09/2019 09:00,Aston Villa,Burnley,AVL,33,1,,2 - 2
+63,28/09/2019 09:00,Aston Villa,Burnley,BUR,68,1,,2 - 2
+63,28/09/2019 09:00,Aston Villa,Burnley,AVL,79,1,,2 - 2
+63,28/09/2019 09:00,Aston Villa,Burnley,BUR,81,1,2 - 2,2 - 2
+64,28/09/2019 09:00,Chelsea,Brighton,CHE,50,1,,2 - 0
+64,28/09/2019 09:00,Chelsea,Brighton,CHE,76,1,,2 - 0
+64,28/09/2019 09:00,Chelsea,Brighton,BHA,90,0,2 - 0,2 - 0
+65,28/09/2019 09:00,Crystal Palace,Norwich,CP,21,1,,2 - 0
+65,28/09/2019 09:00,Crystal Palace,Norwich,CP,90,1,,2 - 0
+65,28/09/2019 09:00,Crystal Palace,Norwich,NOR,90,0,2 - 0,2 - 0
+66,28/09/2019 09:00,Spurs,Southampton,TOT,24,1,,2 - 1
+66,28/09/2019 09:00,Spurs,Southampton,SOU,39,1,,2 - 1
+66,28/09/2019 09:00,Spurs,Southampton,TOT,43,1,2 - 1,2 - 1
+67,28/09/2019 09:00,Wolves,Watford,WOL,18,1,,2 - 0
+67,28/09/2019 09:00,Wolves,Watford,WOL,61,1,,2 - 0
+67,28/09/2019 09:00,Wolves,Watford,WAT,90,0,2 - 0,2 - 0
+68,28/09/2019 11:30,Everton,Man City,MC,24,1,,1 - 3
+68,28/09/2019 11:30,Everton,Man City,EVE,33,1,,1 - 3
+68,28/09/2019 11:30,Everton,Man City,MC,71,1,,1 - 3
+68,28/09/2019 11:30,Everton,Man City,MC,84,1,1 - 3,1 - 3
+69,29/09/2019 10:30,Leicester,Newcastle,LC,16,1,,5 - 0
+69,29/09/2019 10:30,Leicester,Newcastle,LC,54,1,,5 - 0
+69,29/09/2019 10:30,Leicester,Newcastle,LC,57,1,,5 - 0
+69,29/09/2019 10:30,Leicester,Newcastle,LC,64,1,,5 - 0
+69,29/09/2019 10:30,Leicester,Newcastle,LC,90,1,,5 - 0
+69,29/09/2019 10:30,Leicester,Newcastle,NEW,90,0,5 - 0,5 - 0
+70,30/09/2019 14:00,Man Utd,Arsenal,ARS,45,1,,1 - 1
+70,30/09/2019 14:00,Man Utd,Arsenal,MU,58,1,1 - 1,1 - 1
+71,05/10/2019 06:30,Brighton,Spurs,BHA,3,1,,3 - 0
+71,05/10/2019 06:30,Brighton,Spurs,BHA,32,1,,3 - 0
+71,05/10/2019 06:30,Brighton,Spurs,BHA,65,1,,3 - 0
+71,05/10/2019 06:30,Brighton,Spurs,TOT,90,0,3 - 0,3 - 0
+72,05/10/2019 09:00,Burnley,Everton,BUR,72,1,,1 - 0
+72,05/10/2019 09:00,Burnley,Everton,EVE,90,0,1 - 0,1 - 0
+73,05/10/2019 09:00,Liverpool,Leicester,LIV,40,1,,2 - 1
+73,05/10/2019 09:00,Liverpool,Leicester,LC,80,1,,2 - 1
+73,05/10/2019 09:00,Liverpool,Leicester,LIV,90,1,2 - 1,2 - 1
+74,05/10/2019 09:00,Norwich,Aston Villa,AVL,14,1,,1 - 5
+74,05/10/2019 09:00,Norwich,Aston Villa,AVL,30,1,,1 - 5
+74,05/10/2019 09:00,Norwich,Aston Villa,AVL,49,1,,1 - 5
+74,05/10/2019 09:00,Norwich,Aston Villa,AVL,61,1,,1 - 5
+74,05/10/2019 09:00,Norwich,Aston Villa,AVL,83,1,,1 - 5
+74,05/10/2019 09:00,Norwich,Aston Villa,NOR,87,1,1 - 5,1 - 5
+75,05/10/2019 09:00,Watford,Sheffield Utd,WAT,90,0,,0 - 0
+75,05/10/2019 09:00,Watford,Sheffield Utd,SHU,90,0,0 - 0,0 - 0
+76,05/10/2019 11:30,West Ham,Crystal Palace,WHU,54,1,,1 - 2
+76,05/10/2019 11:30,West Ham,Crystal Palace,CP,63,1,,1 - 2
+76,05/10/2019 11:30,West Ham,Crystal Palace,CP,87,1,1 - 2,1 - 2
+77,06/10/2019 08:00,Arsenal,Bournemouth,ARS,9,1,,1 - 0
+77,06/10/2019 08:00,Arsenal,Bournemouth,BOU,90,0,1 - 0,1 - 0
+78,06/10/2019 08:00,Man City,Wolves,WOL,80,1,,0 - 2
+78,06/10/2019 08:00,Man City,Wolves,WOL,90,1,,0 - 2
+78,06/10/2019 08:00,Man City,Wolves,MC,90,0,0 - 2,0 - 2
+79,06/10/2019 08:00,Southampton,Chelsea,CHE,17,1,,1 - 4
+79,06/10/2019 08:00,Southampton,Chelsea,CHE,24,1,,1 - 4
+79,06/10/2019 08:00,Southampton,Chelsea,SOU,30,1,,1 - 4
+79,06/10/2019 08:00,Southampton,Chelsea,CHE,40,1,,1 - 4
+79,06/10/2019 08:00,Southampton,Chelsea,CHE,89,1,1 - 4,1 - 4
+80,06/10/2019 10:30,Newcastle,Man Utd,NEW,72,1,,1 - 0
+80,06/10/2019 10:30,Newcastle,Man Utd,MU,90,0,1 - 0,1 - 0
+81,19/10/2019 06:30,Everton,West Ham,EVE,17,1,,2 - 0
+81,19/10/2019 06:30,Everton,West Ham,EVE,90,1,,2 - 0
+81,19/10/2019 06:30,Everton,West Ham,WHU,90,0,2 - 0,2 - 0
+82,19/10/2019 09:00,Bournemouth,Norwich,BOU,90,0,,0 - 0
+82,19/10/2019 09:00,Bournemouth,Norwich,NOR,90,0,0 - 0,0 - 0
+83,19/10/2019 09:00,Aston Villa,Brighton,BHA,21,1,,2 - 1
+83,19/10/2019 09:00,Aston Villa,Brighton,AVL,45,1,,2 - 1
+83,19/10/2019 09:00,Aston Villa,Brighton,AVL,90,1,2 - 1,2 - 1
+84,19/10/2019 09:00,Chelsea,Newcastle,CHE,73,1,,1 - 0
+84,19/10/2019 09:00,Chelsea,Newcastle,NEW,90,0,1 - 0,1 - 0
+85,19/10/2019 09:00,Leicester,Burnley,BUR,26,1,,2 - 1
+85,19/10/2019 09:00,Leicester,Burnley,LC,45,1,,2 - 1
+85,19/10/2019 09:00,Leicester,Burnley,LC,74,1,2 - 1,2 - 1
+86,19/10/2019 09:00,Spurs,Watford,WAT,6,1,,1 - 1
+86,19/10/2019 09:00,Spurs,Watford,TOT,86,1,1 - 1,1 - 1
+87,19/10/2019 09:00,Wolves,Southampton,SOU,53,1,,1 - 1
+87,19/10/2019 09:00,Wolves,Southampton,WOL,61,1,1 - 1,1 - 1
+88,19/10/2019 11:30,Crystal Palace,Man City,MC,39,1,,0 - 2
+88,19/10/2019 11:30,Crystal Palace,Man City,MC,41,1,,0 - 2
+88,19/10/2019 11:30,Crystal Palace,Man City,CP,90,0,0 - 2,0 - 2
+89,20/10/2019 10:30,Man Utd,Liverpool,MU,36,1,,1 - 1
+89,20/10/2019 10:30,Man Utd,Liverpool,LIV,85,1,1 - 1,1 - 1
+90,21/10/2019 14:00,Sheffield Utd,Arsenal,SHU,30,1,,1 - 0
+90,21/10/2019 14:00,Sheffield Utd,Arsenal,ARS,90,0,1 - 0,1 - 0
+91,25/10/2019 14:00,Southampton,Leicester,LC,10,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,LC,17,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,LC,19,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,LC,39,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,LC,45,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,LC,57,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,LC,58,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,LC,85,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,LC,90,1,,0 - 9
+91,25/10/2019 14:00,Southampton,Leicester,SOU,90,0,0 - 9,0 - 9
+92,26/10/2019 06:30,Man City,Aston Villa,MC,46,1,,3 - 0
+92,26/10/2019 06:30,Man City,Aston Villa,MC,65,1,,3 - 0
+92,26/10/2019 06:30,Man City,Aston Villa,MC,70,1,,3 - 0
+92,26/10/2019 06:30,Man City,Aston Villa,AVL,90,0,3 - 0,3 - 0
+93,26/10/2019 09:00,Brighton,Everton,BHA,15,1,,3 - 2
+93,26/10/2019 09:00,Brighton,Everton,EVE,20,1,,3 - 2
+93,26/10/2019 09:00,Brighton,Everton,EVE,74,1,,3 - 2
+93,26/10/2019 09:00,Brighton,Everton,BHA,80,1,,3 - 2
+93,26/10/2019 09:00,Brighton,Everton,BHA,90,1,3 - 2,3 - 2
+94,26/10/2019 09:00,Watford,Bournemouth,WAT,90,0,,0 - 0
+94,26/10/2019 09:00,Watford,Bournemouth,BOU,90,0,0 - 0,0 - 0
+95,26/10/2019 09:00,West Ham,Sheffield Utd,WHU,44,1,,1 - 1
+95,26/10/2019 09:00,West Ham,Sheffield Utd,SHU,69,1,1 - 1,1 - 1
+96,26/10/2019 11:30,Burnley,Chelsea,CHE,21,1,,2 - 4
+96,26/10/2019 11:30,Burnley,Chelsea,CHE,45,1,,2 - 4
+96,26/10/2019 11:30,Burnley,Chelsea,CHE,56,1,,2 - 4
+96,26/10/2019 11:30,Burnley,Chelsea,CHE,58,1,,2 - 4
+96,26/10/2019 11:30,Burnley,Chelsea,BUR,86,1,,2 - 4
+96,26/10/2019 11:30,Burnley,Chelsea,BUR,89,1,2 - 4,2 - 4
+97,27/10/2019 09:00,Newcastle,Wolves,NEW,37,1,,1 - 1
+97,27/10/2019 09:00,Newcastle,Wolves,WOL,73,1,1 - 1,1 - 1
+98,27/10/2019 11:30,Arsenal,Crystal Palace,ARS,7,1,,2 - 2
+98,27/10/2019 11:30,Arsenal,Crystal Palace,ARS,9,1,,2 - 2
+98,27/10/2019 11:30,Arsenal,Crystal Palace,CP,32,1,,2 - 2
+98,27/10/2019 11:30,Arsenal,Crystal Palace,CP,52,1,2 - 2,2 - 2
+99,27/10/2019 11:30,Liverpool,Spurs,TOT,1,1,,2 - 1
+99,27/10/2019 11:30,Liverpool,Spurs,LIV,52,1,,2 - 1
+99,27/10/2019 11:30,Liverpool,Spurs,LIV,75,1,2 - 1,2 - 1
+100,27/10/2019 11:30,Norwich,Man Utd,MU,21,1,,1 - 3
+100,27/10/2019 11:30,Norwich,Man Utd,MU,30,1,,1 - 3
+100,27/10/2019 11:30,Norwich,Man Utd,MU,73,1,,1 - 3
+100,27/10/2019 11:30,Norwich,Man Utd,NOR,88,1,1 - 3,1 - 3
+101,02/11/2019 07:30,Bournemouth,Man Utd,BOU,45,1,,1 - 0
+101,02/11/2019 07:30,Bournemouth,Man Utd,MU,90,0,1 - 0,1 - 0
+102,02/11/2019 10:00,Arsenal,Wolves,ARS,21,1,,1 - 1
+102,02/11/2019 10:00,Arsenal,Wolves,WOL,76,1,1 - 1,1 - 1
+103,02/11/2019 10:00,Aston Villa,Liverpool,AVL,21,1,,1 - 2
+103,02/11/2019 10:00,Aston Villa,Liverpool,LIV,87,1,,1 - 2
+103,02/11/2019 10:00,Aston Villa,Liverpool,LIV,90,1,1 - 2,1 - 2
+104,02/11/2019 10:00,Brighton,Norwich,BHA,68,1,,2 - 0
+104,02/11/2019 10:00,Brighton,Norwich,BHA,84,1,,2 - 0
+104,02/11/2019 10:00,Brighton,Norwich,NOR,90,0,2 - 0,2 - 0
+105,02/11/2019 10:00,Man City,Southampton,SOU,13,1,,2 - 1
+105,02/11/2019 10:00,Man City,Southampton,MC,70,1,,2 - 1
+105,02/11/2019 10:00,Man City,Southampton,MC,86,1,2 - 1,2 - 1
+106,02/11/2019 10:00,Sheffield Utd,Burnley,SHU,17,1,,3 - 0
+106,02/11/2019 10:00,Sheffield Utd,Burnley,SHU,43,1,,3 - 0
+106,02/11/2019 10:00,Sheffield Utd,Burnley,SHU,44,1,,3 - 0
+106,02/11/2019 10:00,Sheffield Utd,Burnley,BUR,90,0,3 - 0,3 - 0
+107,02/11/2019 10:00,West Ham,Newcastle,NEW,16,1,,2 - 3
+107,02/11/2019 10:00,West Ham,Newcastle,NEW,22,1,,2 - 3
+107,02/11/2019 10:00,West Ham,Newcastle,NEW,51,1,,2 - 3
+107,02/11/2019 10:00,West Ham,Newcastle,WHU,73,1,,2 - 3
+107,02/11/2019 10:00,West Ham,Newcastle,WHU,90,1,2 - 3,2 - 3
+108,02/11/2019 12:30,Watford,Chelsea,CHE,5,1,,1 - 2
+108,02/11/2019 12:30,Watford,Chelsea,CHE,55,1,,1 - 2
+108,02/11/2019 12:30,Watford,Chelsea,WAT,80,1,1 - 2,1 - 2
+109,03/11/2019 08:00,Crystal Palace,Leicester,LC,57,1,,0 - 2
+109,03/11/2019 08:00,Crystal Palace,Leicester,LC,88,1,,0 - 2
+109,03/11/2019 08:00,Crystal Palace,Leicester,CP,90,0,0 - 2,0 - 2
+110,03/11/2019 10:30,Everton,Spurs,TOT,63,1,,1 - 1
+110,03/11/2019 10:30,Everton,Spurs,EVE,90,1,1 - 1,1 - 1
+111,08/11/2019 14:00,Norwich,Watford,WAT,2,1,,0 - 2
+111,08/11/2019 14:00,Norwich,Watford,WAT,52,1,,0 - 2
+111,08/11/2019 14:00,Norwich,Watford,NOR,90,0,0 - 2,0 - 2
+112,09/11/2019 06:30,Chelsea,Crystal Palace,CHE,52,1,,2 - 0
+112,09/11/2019 06:30,Chelsea,Crystal Palace,CHE,79,1,,2 - 0
+112,09/11/2019 06:30,Chelsea,Crystal Palace,CP,90,0,2 - 0,2 - 0
+113,09/11/2019 09:00,Burnley,West Ham,BUR,11,1,,3 - 0
+113,09/11/2019 09:00,Burnley,West Ham,BUR,44,1,,3 - 0
+113,09/11/2019 09:00,Burnley,West Ham,BUR,54,1,,3 - 0
+113,09/11/2019 09:00,Burnley,West Ham,WHU,90,0,3 - 0,3 - 0
+114,09/11/2019 09:00,Newcastle,Bournemouth,BOU,14,1,,2 - 1
+114,09/11/2019 09:00,Newcastle,Bournemouth,NEW,42,1,,2 - 1
+114,09/11/2019 09:00,Newcastle,Bournemouth,NEW,52,1,2 - 1,2 - 1
+115,09/11/2019 09:00,Southampton,Everton,EVE,4,1,,1 - 2
+115,09/11/2019 09:00,Southampton,Everton,SOU,50,1,,1 - 2
+115,09/11/2019 09:00,Southampton,Everton,EVE,75,1,1 - 2,1 - 2
+116,09/11/2019 09:00,Spurs,Sheffield Utd,TOT,58,1,,1 - 1
+116,09/11/2019 09:00,Spurs,Sheffield Utd,SHU,78,1,1 - 1,1 - 1
+117,09/11/2019 11:30,Leicester,Arsenal,LC,68,1,,2 - 0
+117,09/11/2019 11:30,Leicester,Arsenal,LC,75,1,,2 - 0
+117,09/11/2019 11:30,Leicester,Arsenal,ARS,90,0,2 - 0,2 - 0
+118,10/11/2019 08:00,Man Utd,Brighton,MU,17,1,,3 - 1
+118,10/11/2019 08:00,Man Utd,Brighton,MU,19,1,,3 - 1
+118,10/11/2019 08:00,Man Utd,Brighton,BHA,64,1,,3 - 1
+118,10/11/2019 08:00,Man Utd,Brighton,MU,66,1,3 - 1,3 - 1
+119,10/11/2019 08:00,Wolves,Aston Villa,WOL,41,1,,2 - 1
+119,10/11/2019 08:00,Wolves,Aston Villa,WOL,84,1,,2 - 1
+119,10/11/2019 08:00,Wolves,Aston Villa,AVL,90,1,2 - 1,2 - 1
+120,10/11/2019 10:30,Liverpool,Man City,LIV,6,1,,3 - 1
+120,10/11/2019 10:30,Liverpool,Man City,LIV,13,1,,3 - 1
+120,10/11/2019 10:30,Liverpool,Man City,LIV,51,1,,3 - 1
+120,10/11/2019 10:30,Liverpool,Man City,MC,78,1,3 - 1,3 - 1
+121,23/11/2019 06:30,West Ham,Spurs,TOT,36,1,,2 - 3
+121,23/11/2019 06:30,West Ham,Spurs,TOT,43,1,,2 - 3
+121,23/11/2019 06:30,West Ham,Spurs,TOT,49,1,,2 - 3
+121,23/11/2019 06:30,West Ham,Spurs,WHU,73,1,,2 - 3
+121,23/11/2019 06:30,West Ham,Spurs,WHU,90,1,2 - 3,2 - 3
+122,23/11/2019 09:00,Bournemouth,Wolves,WOL,21,1,,1 - 2
+122,23/11/2019 09:00,Bournemouth,Wolves,WOL,31,1,,1 - 2
+122,23/11/2019 09:00,Bournemouth,Wolves,BOU,59,1,1 - 2,1 - 2
+123,23/11/2019 09:00,Arsenal,Southampton,SOU,8,1,,2 - 2
+123,23/11/2019 09:00,Arsenal,Southampton,ARS,18,1,,2 - 2
+123,23/11/2019 09:00,Arsenal,Southampton,SOU,71,1,,2 - 2
+123,23/11/2019 09:00,Arsenal,Southampton,ARS,90,1,2 - 2,2 - 2
+124,23/11/2019 09:00,Brighton,Leicester,LC,64,1,,0 - 2
+124,23/11/2019 09:00,Brighton,Leicester,LC,82,1,,0 - 2
+124,23/11/2019 09:00,Brighton,Leicester,BHA,90,0,0 - 2,0 - 2
+125,23/11/2019 09:00,Crystal Palace,Liverpool,LIV,49,1,,1 - 2
+125,23/11/2019 09:00,Crystal Palace,Liverpool,CP,82,1,,1 - 2
+125,23/11/2019 09:00,Crystal Palace,Liverpool,LIV,85,1,1 - 2,1 - 2
+126,23/11/2019 09:00,Everton,Norwich,NOR,54,1,,0 - 2
+126,23/11/2019 09:00,Everton,Norwich,NOR,90,1,,0 - 2
+126,23/11/2019 09:00,Everton,Norwich,EVE,90,0,0 - 2,0 - 2
+127,23/11/2019 09:00,Watford,Burnley,BUR,53,1,,0 - 3
+127,23/11/2019 09:00,Watford,Burnley,BUR,82,1,,0 - 3
+127,23/11/2019 09:00,Watford,Burnley,BUR,88,1,,0 - 3
+127,23/11/2019 09:00,Watford,Burnley,WAT,90,0,0 - 3,0 - 3
+128,23/11/2019 11:30,Man City,Chelsea,CHE,21,1,,2 - 1
+128,23/11/2019 11:30,Man City,Chelsea,MC,29,1,,2 - 1
+128,23/11/2019 11:30,Man City,Chelsea,MC,37,1,2 - 1,2 - 1
+129,24/11/2019 10:30,Sheffield Utd,Man Utd,SHU,19,1,,3 - 3
+129,24/11/2019 10:30,Sheffield Utd,Man Utd,SHU,52,1,,3 - 3
+129,24/11/2019 10:30,Sheffield Utd,Man Utd,MU,72,1,,3 - 3
+129,24/11/2019 10:30,Sheffield Utd,Man Utd,MU,77,1,,3 - 3
+129,24/11/2019 10:30,Sheffield Utd,Man Utd,MU,79,1,,3 - 3
+129,24/11/2019 10:30,Sheffield Utd,Man Utd,SHU,90,1,3 - 3,3 - 3
+130,25/11/2019 14:00,Aston Villa,Newcastle,AVL,32,1,,2 - 0
+130,25/11/2019 14:00,Aston Villa,Newcastle,AVL,36,1,,2 - 0
+130,25/11/2019 14:00,Aston Villa,Newcastle,NEW,90,0,2 - 0,2 - 0
+131,30/11/2019 06:30,Newcastle,Man City,MC,22,1,,2 - 2
+131,30/11/2019 06:30,Newcastle,Man City,NEW,25,1,,2 - 2
+131,30/11/2019 06:30,Newcastle,Man City,MC,82,1,,2 - 2
+131,30/11/2019 06:30,Newcastle,Man City,NEW,88,1,2 - 2,2 - 2
+132,30/11/2019 09:00,Burnley,Crystal Palace,CP,45,1,,0 - 2
+132,30/11/2019 09:00,Burnley,Crystal Palace,CP,78,1,,0 - 2
+132,30/11/2019 09:00,Burnley,Crystal Palace,BUR,90,0,0 - 2,0 - 2
+133,30/11/2019 09:00,Chelsea,West Ham,WHU,48,1,,0 - 1
+133,30/11/2019 09:00,Chelsea,West Ham,CHE,90,0,0 - 1,0 - 1
+134,30/11/2019 09:00,Liverpool,Brighton,LIV,18,1,,2 - 1
+134,30/11/2019 09:00,Liverpool,Brighton,LIV,24,1,,2 - 1
+134,30/11/2019 09:00,Liverpool,Brighton,BHA,79,1,2 - 1,2 - 1
+135,30/11/2019 09:00,Spurs,Bournemouth,TOT,21,1,,3 - 2
+135,30/11/2019 09:00,Spurs,Bournemouth,TOT,50,1,,3 - 2
+135,30/11/2019 09:00,Spurs,Bournemouth,TOT,69,1,,3 - 2
+135,30/11/2019 09:00,Spurs,Bournemouth,BOU,73,1,,3 - 2
+135,30/11/2019 09:00,Spurs,Bournemouth,BOU,90,1,3 - 2,3 - 2
+136,30/11/2019 11:30,Southampton,Watford,WAT,24,1,,2 - 1
+136,30/11/2019 11:30,Southampton,Watford,SOU,78,1,,2 - 1
+136,30/11/2019 11:30,Southampton,Watford,SOU,83,1,2 - 1,2 - 1
+137,01/12/2019 08:00,Norwich,Arsenal,ARS,21,1,,2 - 2
+137,01/12/2019 08:00,Norwich,Arsenal,NOR,29,1,,2 - 2
+137,01/12/2019 08:00,Norwich,Arsenal,NOR,45,1,,2 - 2
+137,01/12/2019 08:00,Norwich,Arsenal,ARS,57,1,2 - 2,2 - 2
+138,01/12/2019 08:00,Wolves,Sheffield Utd,SHU,2,1,,1 - 1
+138,01/12/2019 08:00,Wolves,Sheffield Utd,WOL,64,1,1 - 1,1 - 1
+139,01/12/2019 10:30,Leicester,Everton,EVE,23,1,,2 - 1
+139,01/12/2019 10:30,Leicester,Everton,LC,68,1,,2 - 1
+139,01/12/2019 10:30,Leicester,Everton,LC,90,1,2 - 1,2 - 1
+140,01/12/2019 10:30,Man Utd,Aston Villa,AVL,11,1,,2 - 2
+140,01/12/2019 10:30,Man Utd,Aston Villa,MU,42,1,,2 - 2
+140,01/12/2019 10:30,Man Utd,Aston Villa,MU,64,1,,2 - 2
+140,01/12/2019 10:30,Man Utd,Aston Villa,AVL,66,1,2 - 2,2 - 2
+141,03/12/2019 13:30,Crystal Palace,Bournemouth,CP,76,1,,1 - 0
+141,03/12/2019 13:30,Crystal Palace,Bournemouth,BOU,90,0,1 - 0,1 - 0
+142,03/12/2019 14:15,Burnley,Man City,MC,24,1,,1 - 4
+142,03/12/2019 14:15,Burnley,Man City,MC,80,1,,1 - 4
+142,03/12/2019 14:15,Burnley,Man City,MC,68,1,,1 - 4
+142,03/12/2019 14:15,Burnley,Man City,MC,87,1,,1 - 4
+142,03/12/2019 14:15,Burnley,Man City,BUR,89,1,1 - 4,1 - 4
+143,04/12/2019 13:30,Leicester,Watford,LC,55,1,,2 - 0
+143,04/12/2019 13:30,Leicester,Watford,LC,90,1,,2 - 0
+143,04/12/2019 13:30,Leicester,Watford,WAT,90,0,2 - 0,2 - 0
+144,04/12/2019 13:30,Wolves,West Ham,WOL,23,1,,2 - 0
+144,04/12/2019 13:30,Wolves,West Ham,WOL,86,1,,2 - 0
+144,04/12/2019 13:30,Wolves,West Ham,WHU,90,0,2 - 0,2 - 0
+145,04/12/2019 13:30,Man Utd,Spurs,MU,6,1,,2 - 1
+145,04/12/2019 13:30,Man Utd,Spurs,TOT,39,1,,2 - 1
+145,04/12/2019 13:30,Man Utd,Spurs,MU,49,1,2 - 1,2 - 1
+146,04/12/2019 13:30,Chelsea,Aston Villa,CHE,24,1,,2 - 1
+146,04/12/2019 13:30,Chelsea,Aston Villa,AVL,41,1,,2 - 1
+146,04/12/2019 13:30,Chelsea,Aston Villa,CHE,48,1,2 - 1,2 - 1
+147,04/12/2019 13:30,Southampton,Norwich,SOU,22,1,,2 - 1
+147,04/12/2019 13:30,Southampton,Norwich,SOU,43,1,,2 - 1
+147,04/12/2019 13:30,Southampton,Norwich,NOR,65,1,2 - 1,2 - 1
+148,04/12/2019 14:15,Liverpool,Everton,LIV,6,1,,5 - 2
+148,04/12/2019 14:15,Liverpool,Everton,LIV,17,1,,5 - 2
+148,04/12/2019 14:15,Liverpool,Everton,EVE,21,1,,5 - 2
+148,04/12/2019 14:15,Liverpool,Everton,LIV,31,1,,5 - 2
+148,04/12/2019 14:15,Liverpool,Everton,LIV,45,1,,5 - 2
+148,04/12/2019 14:15,Liverpool,Everton,EVE,45,1,,5 - 2
+148,04/12/2019 14:15,Liverpool,Everton,LIV,90,1,5 - 2,5 - 2
+149,05/12/2019 13:30,Sheffield Utd,Newcastle,NEW,15,1,,0 - 2
+149,05/12/2019 13:30,Sheffield Utd,Newcastle,NEW,70,1,,0 - 2
+149,05/12/2019 13:30,Sheffield Utd,Newcastle,SHU,90,0,0 - 2,0 - 2
+150,05/12/2019 14:15,Arsenal,Brighton,BHA,36,1,,1 - 2
+150,05/12/2019 14:15,Arsenal,Brighton,ARS,50,1,,1 - 2
+150,05/12/2019 14:15,Arsenal,Brighton,BHA,80,1,1 - 2,1 - 2
+151,07/12/2019 06:30,Everton,Chelsea,EVE,5,1,,3 - 1
+151,07/12/2019 06:30,Everton,Chelsea,EVE,49,1,,3 - 1
+151,07/12/2019 06:30,Everton,Chelsea,CHE,52,1,,3 - 1
+151,07/12/2019 06:30,Everton,Chelsea,EVE,84,1,3 - 1,3 - 1
+152,07/12/2019 09:00,Bournemouth,Liverpool,LIV,35,1,,0 - 3
+152,07/12/2019 09:00,Bournemouth,Liverpool,LIV,44,1,,0 - 3
+152,07/12/2019 09:00,Bournemouth,Liverpool,LIV,54,1,,0 - 3
+152,07/12/2019 09:00,Bournemouth,Liverpool,BOU,90,0,0 - 3,0 - 3
+153,07/12/2019 09:00,Spurs,Burnley,TOT,5,1,,5 - 0
+153,07/12/2019 09:00,Spurs,Burnley,TOT,9,1,,5 - 0
+153,07/12/2019 09:00,Spurs,Burnley,TOT,32,1,,5 - 0
+153,07/12/2019 09:00,Spurs,Burnley,TOT,54,1,,5 - 0
+153,07/12/2019 09:00,Spurs,Burnley,TOT,74,1,,5 - 0
+153,07/12/2019 09:00,Spurs,Burnley,BUR,90,0,5 - 0,5 - 0
+154,07/12/2019 09:00,Watford,Crystal Palace,WAT,90,0,,0 - 0
+154,07/12/2019 09:00,Watford,Crystal Palace,CP,90,0,0 - 0,0 - 0
+155,07/12/2019 11:30,Man City,Man Utd,MU,23,1,,1 - 2
+155,07/12/2019 11:30,Man City,Man Utd,MU,29,1,,1 - 2
+155,07/12/2019 11:30,Man City,Man Utd,MC,85,1,1 - 2,1 - 2
+156,08/12/2019 08:00,Aston Villa,Leicester,LC,20,1,,1 - 4
+156,08/12/2019 08:00,Aston Villa,Leicester,LC,41,1,,1 - 4
+156,08/12/2019 08:00,Aston Villa,Leicester,AVL,45,1,,1 - 4
+156,08/12/2019 08:00,Aston Villa,Leicester,LC,49,1,,1 - 4
+156,08/12/2019 08:00,Aston Villa,Leicester,LC,75,1,1 - 4,1 - 4
+157,08/12/2019 08:00,Newcastle,Southampton,SOU,52,1,,2 - 1
+157,08/12/2019 08:00,Newcastle,Southampton,NEW,68,1,,2 - 1
+157,08/12/2019 08:00,Newcastle,Southampton,NEW,87,1,2 - 1,2 - 1
+158,08/12/2019 08:00,Norwich,Sheffield Utd,NOR,27,1,,1 - 2
+158,08/12/2019 08:00,Norwich,Sheffield Utd,SHU,49,1,,1 - 2
+158,08/12/2019 08:00,Norwich,Sheffield Utd,SHU,52,1,1 - 2,1 - 2
+159,08/12/2019 10:30,Brighton,Wolves,WOL,28,1,,2 - 2
+159,08/12/2019 10:30,Brighton,Wolves,BHA,34,1,,2 - 2
+159,08/12/2019 10:30,Brighton,Wolves,BHA,36,1,,2 - 2
+159,08/12/2019 10:30,Brighton,Wolves,WOL,44,1,2 - 2,2 - 2
+160,09/12/2019 14:00,West Ham,Arsenal,WHU,38,1,,1 - 3
+160,09/12/2019 14:00,West Ham,Arsenal,ARS,60,1,,1 - 3
+160,09/12/2019 14:00,West Ham,Arsenal,ARS,66,1,,1 - 3
+160,09/12/2019 14:00,West Ham,Arsenal,ARS,69,1,1 - 3,1 - 3
+161,14/12/2019 06:30,Liverpool,Watford,LIV,38,1,,2 - 0
+161,14/12/2019 06:30,Liverpool,Watford,LIV,90,1,,2 - 0
+161,14/12/2019 06:30,Liverpool,Watford,WAT,90,0,2 - 0,2 - 0
+162,14/12/2019 09:00,Burnley,Newcastle,BUR,58,1,,1 - 0
+162,14/12/2019 09:00,Burnley,Newcastle,NEW,90,0,1 - 0,1 - 0
+163,14/12/2019 09:00,Chelsea,Bournemouth,BOU,84,1,,0 - 1
+163,14/12/2019 09:00,Chelsea,Bournemouth,CHE,90,0,0 - 1,0 - 1
+164,14/12/2019 09:00,Leicester,Norwich,NOR,26,1,,1 - 1
+164,14/12/2019 09:00,Leicester,Norwich,LC,38,1,1 - 1,1 - 1
+165,14/12/2019 09:00,Sheffield Utd,Aston Villa,SHU,50,1,,2 - 0
+165,14/12/2019 09:00,Sheffield Utd,Aston Villa,SHU,73,1,,2 - 0
+165,14/12/2019 09:00,Sheffield Utd,Aston Villa,AVL,90,0,2 - 0,2 - 0
+166,14/12/2019 11:30,Southampton,West Ham,WHU,37,1,,0 - 1
+166,14/12/2019 11:30,Southampton,West Ham,SOU,90,0,0 - 1,0 - 1
+167,15/12/2019 08:00,Man Utd,Everton,EVE,36,1,,1 - 1
+167,15/12/2019 08:00,Man Utd,Everton,MU,77,1,1 - 1,1 - 1
+168,15/12/2019 08:00,Wolves,Spurs,TOT,8,1,,1 - 2
+168,15/12/2019 08:00,Wolves,Spurs,WOL,67,1,,1 - 2
+168,15/12/2019 08:00,Wolves,Spurs,TOT,90,1,1 - 2,1 - 2
+169,15/12/2019 10:30,Arsenal,Man City,MC,2,1,,0 - 3
+169,15/12/2019 10:30,Arsenal,Man City,MC,15,1,,0 - 3
+169,15/12/2019 10:30,Arsenal,Man City,MC,40,1,,0 - 3
+169,15/12/2019 10:30,Arsenal,Man City,ARS,90,0,0 - 3,0 - 3
+170,16/12/2019 13:45,Crystal Palace,Brighton,BHA,54,1,,1 - 1
+170,16/12/2019 13:45,Crystal Palace,Brighton,CP,76,1,1 - 1,1 - 1
+171,21/12/2019 06:30,Everton,Arsenal,EVE,90,0,,0 - 0
+171,21/12/2019 06:30,Everton,Arsenal,ARS,90,0,0 - 0,0 - 0
+172,21/12/2019 09:00,Bournemouth,Burnley,BUR,89,1,,0 - 1
+172,21/12/2019 09:00,Bournemouth,Burnley,BOU,90,0,0 - 1,0 - 1
+173,21/12/2019 09:00,Aston Villa,Southampton,SOU,21,1,,1 - 3
+173,21/12/2019 09:00,Aston Villa,Southampton,SOU,31,1,,1 - 3
+173,21/12/2019 09:00,Aston Villa,Southampton,SOU,51,1,,1 - 3
+173,21/12/2019 09:00,Aston Villa,Southampton,AVL,75,1,1 - 3,1 - 3
+174,21/12/2019 09:00,Brighton,Sheffield Utd,SHU,23,1,,0 - 1
+174,21/12/2019 09:00,Brighton,Sheffield Utd,BHA,90,0,0 - 1,0 - 1
+175,21/12/2019 09:00,Newcastle,Crystal Palace,NEW,83,1,,1 - 0
+175,21/12/2019 09:00,Newcastle,Crystal Palace,CP,90,0,1 - 0,1 - 0
+176,21/12/2019 09:00,Norwich,Wolves,NOR,17,1,,1 - 2
+176,21/12/2019 09:00,Norwich,Wolves,WOL,60,1,,1 - 2
+176,21/12/2019 09:00,Norwich,Wolves,WOL,81,1,1 - 2,1 - 2
+177,21/12/2019 11:30,Man City,Leicester,LC,22,1,,3 - 1
+177,21/12/2019 11:30,Man City,Leicester,MC,30,1,,3 - 1
+177,21/12/2019 11:30,Man City,Leicester,MC,43,1,,3 - 1
+177,21/12/2019 11:30,Man City,Leicester,MC,69,1,3 - 1,3 - 1
+178,22/12/2019 08:00,Watford,Man Utd,WAT,50,1,,2 - 0
+178,22/12/2019 08:00,Watford,Man Utd,WAT,54,1,,2 - 0
+178,22/12/2019 08:00,Watford,Man Utd,MU,90,0,2 - 0,2 - 0
+179,22/12/2019 10:30,Spurs,Chelsea,CHE,12,1,,0 - 2
+179,22/12/2019 10:30,Spurs,Chelsea,CHE,45,1,,0 - 2
+179,22/12/2019 10:30,Spurs,Chelsea,TOT,90,0,0 - 2,0 - 2
+180,26/12/2019 06:30,Spurs,Brighton,BHA,37,1,,2 - 1
+180,26/12/2019 06:30,Spurs,Brighton,TOT,53,1,,2 - 1
+180,26/12/2019 06:30,Spurs,Brighton,TOT,72,1,2 - 1,2 - 1
+181,26/12/2019 09:00,Bournemouth,Arsenal,BOU,35,1,,1 - 1
+181,26/12/2019 09:00,Bournemouth,Arsenal,ARS,63,1,1 - 1,1 - 1
+182,26/12/2019 09:00,Aston Villa,Norwich,AVL,64,1,,1 - 0
+182,26/12/2019 09:00,Aston Villa,Norwich,NOR,90,0,1 - 0,1 - 0
+183,26/12/2019 09:00,Chelsea,Southampton,SOU,31,1,,0 - 2
+183,26/12/2019 09:00,Chelsea,Southampton,SOU,73,1,,0 - 2
+183,26/12/2019 09:00,Chelsea,Southampton,CHE,90,0,0 - 2,0 - 2
+184,26/12/2019 09:00,Crystal Palace,West Ham,WHU,57,1,,2 - 1
+184,26/12/2019 09:00,Crystal Palace,West Ham,CP,68,1,,2 - 1
+184,26/12/2019 09:00,Crystal Palace,West Ham,CP,90,1,2 - 1,2 - 1
+185,26/12/2019 09:00,Everton,Burnley,EVE,80,1,,1 - 0
+185,26/12/2019 09:00,Everton,Burnley,BUR,90,0,1 - 0,1 - 0
+186,26/12/2019 09:00,Sheffield Utd,Watford,WAT,27,1,,1 - 1
+186,26/12/2019 09:00,Sheffield Utd,Watford,SHU,36,1,1 - 1,1 - 1
+187,26/12/2019 11:30,Man Utd,Newcastle,NEW,17,1,,4 - 1
+187,26/12/2019 11:30,Man Utd,Newcastle,MU,24,1,,4 - 1
+187,26/12/2019 11:30,Man Utd,Newcastle,MU,36,1,,4 - 1
+187,26/12/2019 11:30,Man Utd,Newcastle,MU,41,1,,4 - 1
+187,26/12/2019 11:30,Man Utd,Newcastle,MU,51,1,4 - 1,4 - 1
+188,26/12/2019 14:00,Leicester,Liverpool,LIV,31,1,,0 - 4
+188,26/12/2019 14:00,Leicester,Liverpool,LIV,71,1,,0 - 4
+188,26/12/2019 14:00,Leicester,Liverpool,LIV,74,1,,0 - 4
+188,26/12/2019 14:00,Leicester,Liverpool,LIV,78,1,,0 - 4
+188,26/12/2019 14:00,Leicester,Liverpool,LC,90,0,0 - 4,0 - 4
+189,27/12/2019 13:45,Wolves,Man City,MC,25,1,,3 - 2
+189,27/12/2019 13:45,Wolves,Man City,MC,50,1,,3 - 2
+189,27/12/2019 13:45,Wolves,Man City,WOL,55,1,,3 - 2
+189,27/12/2019 13:45,Wolves,Man City,WOL,82,1,,3 - 2
+189,27/12/2019 13:45,Wolves,Man City,WOL,89,1,3 - 2,3 - 2
+190,28/12/2019 06:30,Brighton,Bournemouth,BHA,3,1,,2 - 0
+190,28/12/2019 06:30,Brighton,Bournemouth,BHA,79,1,,2 - 0
+190,28/12/2019 06:30,Brighton,Bournemouth,BOU,90,0,2 - 0,2 - 0
+191,28/12/2019 09:00,Newcastle,Everton,EVE,13,1,,1 - 2
+191,28/12/2019 09:00,Newcastle,Everton,NEW,56,1,,1 - 2
+191,28/12/2019 09:00,Newcastle,Everton,EVE,64,1,1 - 2,1 - 2
+192,28/12/2019 09:00,Southampton,Crystal Palace,CP,50,1,,1 - 1
+192,28/12/2019 09:00,Southampton,Crystal Palace,SOU,74,1,1 - 1,1 - 1
+193,28/12/2019 09:00,Watford,Aston Villa,WAT,42,1,,3 - 0
+193,28/12/2019 09:00,Watford,Aston Villa,WAT,67,1,,3 - 0
+193,28/12/2019 09:00,Watford,Aston Villa,WAT,71,1,,3 - 0
+193,28/12/2019 09:00,Watford,Aston Villa,AVL,90,0,3 - 0,3 - 0
+194,28/12/2019 11:30,Norwich,Spurs,NOR,18,1,,2 - 2
+194,28/12/2019 11:30,Norwich,Spurs,TOT,55,1,,2 - 2
+194,28/12/2019 11:30,Norwich,Spurs,NOR,61,1,,2 - 2
+194,28/12/2019 11:30,Norwich,Spurs,TOT,83,1,2 - 2,2 - 2
+195,28/12/2019 11:30,West Ham,Leicester,LC,40,1,,1 - 2
+195,28/12/2019 11:30,West Ham,Leicester,WHU,45,1,,1 - 2
+195,28/12/2019 11:30,West Ham,Leicester,LC,56,1,1 - 2,1 - 2
+196,28/12/2019 13:45,Burnley,Man Utd,MU,44,1,,0 - 2
+196,28/12/2019 13:45,Burnley,Man Utd,MU,90,1,,0 - 2
+196,28/12/2019 13:45,Burnley,Man Utd,BUR,90,0,0 - 2,0 - 2
+197,29/12/2019 08:00,Arsenal,Chelsea,ARS,13,1,,1 - 2
+197,29/12/2019 08:00,Arsenal,Chelsea,CHE,83,1,,1 - 2
+197,29/12/2019 08:00,Arsenal,Chelsea,CHE,87,1,1 - 2,1 - 2
+198,29/12/2019 10:30,Liverpool,Wolves,LIV,42,1,,1 - 0
+198,29/12/2019 10:30,Liverpool,Wolves,WOL,90,0,1 - 0,1 - 0
+199,29/12/2019 12:00,Man City,Sheffield Utd,MC,52,1,,2 - 0
+199,29/12/2019 12:00,Man City,Sheffield Utd,MC,82,1,,2 - 0
+199,29/12/2019 12:00,Man City,Sheffield Utd,SHU,90,0,2 - 0,2 - 0
+200,01/01/2020 06:30,Brighton,Chelsea,CHE,10,1,,1 - 1
+200,01/01/2020 06:30,Brighton,Chelsea,BHA,84,1,1 - 1,1 - 1
+201,01/01/2020 06:30,Burnley,Aston Villa,AVL,27,1,,1 - 2
+201,01/01/2020 06:30,Burnley,Aston Villa,AVL,41,1,,1 - 2
+201,01/01/2020 06:30,Burnley,Aston Villa,BUR,80,1,1 - 2,1 - 2
+202,01/01/2020 09:00,Newcastle,Leicester,LC,36,1,,0 - 3
+202,01/01/2020 09:00,Newcastle,Leicester,LC,39,1,,0 - 3
+202,01/01/2020 09:00,Newcastle,Leicester,LC,87,1,,0 - 3
+202,01/01/2020 09:00,Newcastle,Leicester,NEW,90,0,0 - 3,0 - 3
+203,01/01/2020 09:00,Southampton,Spurs,SOU,17,1,,1 - 0
+203,01/01/2020 09:00,Southampton,Spurs,TOT,90,0,1 - 0,1 - 0
+204,01/01/2020 09:00,Watford,Wolves,WAT,30,1,,2 - 1
+204,01/01/2020 09:00,Watford,Wolves,WAT,49,1,,2 - 1
+204,01/01/2020 09:00,Watford,Wolves,WOL,60,1,2 - 1,2 - 1
+205,01/01/2020 11:30,Man City,Everton,MC,51,1,,2 - 1
+205,01/01/2020 11:30,Man City,Everton,MC,58,1,,2 - 1
+205,01/01/2020 11:30,Man City,Everton,EVE,71,1,2 - 1,2 - 1
+206,01/01/2020 11:30,Norwich,Crystal Palace,NOR,4,1,,1 - 1
+206,01/01/2020 11:30,Norwich,Crystal Palace,CP,85,1,1 - 1,1 - 1
+207,01/01/2020 11:30,West Ham,Bournemouth,WHU,17,1,,4 - 0
+207,01/01/2020 11:30,West Ham,Bournemouth,WHU,25,1,,4 - 0
+207,01/01/2020 11:30,West Ham,Bournemouth,WHU,35,1,,4 - 0
+207,01/01/2020 11:30,West Ham,Bournemouth,WHU,66,1,,4 - 0
+207,01/01/2020 11:30,West Ham,Bournemouth,BOU,90,0,4 - 0,4 - 0
+208,01/01/2020 14:00,Arsenal,Man Utd,ARS,8,1,,2 - 0
+208,01/01/2020 14:00,Arsenal,Man Utd,ARS,42,1,,2 - 0
+208,01/01/2020 14:00,Arsenal,Man Utd,MU,90,0,2 - 0,2 - 0
+209,02/01/2020 14:00,Liverpool,Sheffield Utd,LIV,4,1,,2 - 0
+209,02/01/2020 14:00,Liverpool,Sheffield Utd,LIV,64,1,,2 - 0
+209,02/01/2020 14:00,Liverpool,Sheffield Utd,SHU,90,0,2 - 0,2 - 0
+210,10/01/2020 14:00,Sheffield Utd,West Ham,SHU,53,1,,1 - 0
+210,10/01/2020 14:00,Sheffield Utd,West Ham,WHU,90,0,1 - 0,1 - 0
+211,11/01/2020 06:30,Crystal Palace,Arsenal,ARS,12,1,,1 - 1
+211,11/01/2020 06:30,Crystal Palace,Arsenal,CP,54,1,1 - 1,1 - 1
+212,11/01/2020 09:00,Chelsea,Burnley,CHE,27,1,,3 - 0
+212,11/01/2020 09:00,Chelsea,Burnley,CHE,38,1,,3 - 0
+212,11/01/2020 09:00,Chelsea,Burnley,CHE,49,1,,3 - 0
+212,11/01/2020 09:00,Chelsea,Burnley,BUR,90,0,3 - 0,3 - 0
+213,11/01/2020 09:00,Everton,Brighton,EVE,38,1,,1 - 0
+213,11/01/2020 09:00,Everton,Brighton,BHA,90,0,1 - 0,1 - 0
+214,11/01/2020 09:00,Leicester,Southampton,LC,14,1,,1 - 2
+214,11/01/2020 09:00,Leicester,Southampton,SOU,19,1,,1 - 2
+214,11/01/2020 09:00,Leicester,Southampton,SOU,81,1,1 - 2,1 - 2
+215,11/01/2020 09:00,Man Utd,Norwich,MU,27,1,,4 - 0
+215,11/01/2020 09:00,Man Utd,Norwich,MU,52,1,,4 - 0
+215,11/01/2020 09:00,Man Utd,Norwich,MU,54,1,,4 - 0
+215,11/01/2020 09:00,Man Utd,Norwich,MU,76,1,,4 - 0
+215,11/01/2020 09:00,Man Utd,Norwich,NOR,90,0,4 - 0,4 - 0
+216,11/01/2020 09:00,Wolves,Newcastle,NEW,7,1,,1 - 1
+216,11/01/2020 09:00,Wolves,Newcastle,WOL,14,1,1 - 1,1 - 1
+217,11/01/2020 11:30,Spurs,Liverpool,LIV,37,1,,0 - 1
+217,11/01/2020 11:30,Spurs,Liverpool,TOT,90,0,0 - 1,0 - 1
+218,12/01/2020 08:00,Bournemouth,Watford,WAT,42,1,,0 - 3
+218,12/01/2020 08:00,Bournemouth,Watford,WAT,65,1,,0 - 3
+218,12/01/2020 08:00,Bournemouth,Watford,WAT,90,1,,0 - 3
+218,12/01/2020 08:00,Bournemouth,Watford,BOU,90,0,0 - 3,0 - 3
+219,12/01/2020 09:30,Aston Villa,Man City,MC,18,1,,1 - 6
+219,12/01/2020 09:30,Aston Villa,Man City,MC,24,1,,1 - 6
+219,12/01/2020 09:30,Aston Villa,Man City,MC,28,1,,1 - 6
+219,12/01/2020 09:30,Aston Villa,Man City,MC,45,1,,1 - 6
+219,12/01/2020 09:30,Aston Villa,Man City,MC,57,1,,1 - 6
+219,12/01/2020 09:30,Aston Villa,Man City,MC,81,1,,1 - 6
+219,12/01/2020 09:30,Aston Villa,Man City,AVL,90,1,1 - 6,1 - 6
+220,18/01/2020 06:30,Watford,Spurs,WAT,90,0,,0 - 0
+220,18/01/2020 06:30,Watford,Spurs,TOT,90,0,0 - 0,0 - 0
+221,18/01/2020 09:00,Arsenal,Sheffield Utd,ARS,45,1,,1 - 1
+221,18/01/2020 09:00,Arsenal,Sheffield Utd,SHU,83,1,1 - 1,1 - 1
+222,18/01/2020 09:00,Brighton,Aston Villa,BHA,38,1,,1 - 1
+222,18/01/2020 09:00,Brighton,Aston Villa,AVL,75,1,1 - 1,1 - 1
+223,18/01/2020 09:00,Man City,Crystal Palace,CP,39,1,,2 - 2
+223,18/01/2020 09:00,Man City,Crystal Palace,MC,82,1,,2 - 2
+223,18/01/2020 09:00,Man City,Crystal Palace,MC,87,1,,2 - 2
+223,18/01/2020 09:00,Man City,Crystal Palace,CP,90,1,2 - 2,2 - 2
+224,18/01/2020 09:00,Norwich,Bournemouth,NOR,33,1,,1 - 0
+224,18/01/2020 09:00,Norwich,Bournemouth,BOU,90,0,1 - 0,1 - 0
+225,18/01/2020 09:00,Southampton,Wolves,SOU,15,1,,2 - 3
+225,18/01/2020 09:00,Southampton,Wolves,SOU,35,1,,2 - 3
+225,18/01/2020 09:00,Southampton,Wolves,WOL,53,1,,2 - 3
+225,18/01/2020 09:00,Southampton,Wolves,WOL,65,1,,2 - 3
+225,18/01/2020 09:00,Southampton,Wolves,WOL,76,1,2 - 3,2 - 3
+226,18/01/2020 09:00,West Ham,Everton,WHU,40,1,,1 - 1
+226,18/01/2020 09:00,West Ham,Everton,EVE,44,1,1 - 1,1 - 1
+227,18/01/2020 11:30,Newcastle,Chelsea,NEW,90,1,,1 - 0
+227,18/01/2020 11:30,Newcastle,Chelsea,CHE,90,0,1 - 0,1 - 0
+228,19/01/2020 08:00,Burnley,Leicester,LC,33,1,,2 - 1
+228,19/01/2020 08:00,Burnley,Leicester,BUR,56,1,,2 - 1
+228,19/01/2020 08:00,Burnley,Leicester,BUR,79,1,2 - 1,2 - 1
+229,19/01/2020 10:30,Liverpool,Man Utd,LIV,14,1,,2 - 0
+229,19/01/2020 10:30,Liverpool,Man Utd,LIV,90,1,,2 - 0
+229,19/01/2020 10:30,Liverpool,Man Utd,MU,90,0,2 - 0,2 - 0
+230,21/01/2020 13:30,Bournemouth,Brighton,BOU,36,1,,3 - 1
+230,21/01/2020 13:30,Bournemouth,Brighton,BOU,41,1,,3 - 1
+230,21/01/2020 13:30,Bournemouth,Brighton,BOU,74,1,,3 - 1
+230,21/01/2020 13:30,Bournemouth,Brighton,BHA,81,1,3 - 1,3 - 1
+231,21/01/2020 13:30,Aston Villa,Watford,WAT,38,1,,2 - 1
+231,21/01/2020 13:30,Aston Villa,Watford,AVL,68,1,,2 - 1
+231,21/01/2020 13:30,Aston Villa,Watford,AVL,90,1,2 - 1,2 - 1
+232,21/01/2020 13:30,Everton,Newcastle,EVE,30,1,,2 - 2
+232,21/01/2020 13:30,Everton,Newcastle,EVE,54,1,,2 - 2
+232,21/01/2020 13:30,Everton,Newcastle,NEW,90,1,,2 - 2
+232,21/01/2020 13:30,Everton,Newcastle,NEW,90,1,2 - 2,2 - 2
+233,21/01/2020 13:30,Sheffield Utd,Man City,MC,73,1,,0 - 1
+233,21/01/2020 13:30,Sheffield Utd,Man City,SHU,90,0,0 - 1,0 - 1
+234,21/01/2020 13:30,Crystal Palace,Southampton,SOU,22,1,,0 - 2
+234,21/01/2020 13:30,Crystal Palace,Southampton,SOU,38,1,,0 - 2
+234,21/01/2020 13:30,Crystal Palace,Southampton,CP,90,0,0 - 2,0 - 2
+235,21/01/2020 14:15,Chelsea,Arsenal,CHE,28,1,,2 - 2
+235,21/01/2020 14:15,Chelsea,Arsenal,ARS,63,1,,2 - 2
+235,21/01/2020 14:15,Chelsea,Arsenal,CHE,84,1,,2 - 2
+235,21/01/2020 14:15,Chelsea,Arsenal,ARS,87,1,2 - 2,2 - 2
+236,22/01/2020 13:30,Leicester,West Ham,LC,24,1,,4 - 1
+236,22/01/2020 13:30,Leicester,West Ham,LC,45,1,,4 - 1
+236,22/01/2020 13:30,Leicester,West Ham,WHU,50,1,,4 - 1
+236,22/01/2020 13:30,Leicester,West Ham,LC,81,1,,4 - 1
+236,22/01/2020 13:30,Leicester,West Ham,LC,88,1,4 - 1,4 - 1
+237,22/01/2020 13:30,Spurs,Norwich,TOT,38,1,,2 - 1
+237,22/01/2020 13:30,Spurs,Norwich,NOR,70,1,,2 - 1
+237,22/01/2020 13:30,Spurs,Norwich,TOT,79,1,2 - 1,2 - 1
+238,22/01/2020 14:15,Man Utd,Burnley,BUR,39,1,,0 - 2
+238,22/01/2020 14:15,Man Utd,Burnley,BUR,56,1,,0 - 2
+238,22/01/2020 14:15,Man Utd,Burnley,MU,90,0,0 - 2,0 - 2
+239,23/01/2020 14:00,Wolves,Liverpool,LIV,8,1,,1 - 2
+239,23/01/2020 14:00,Wolves,Liverpool,WOL,51,1,,1 - 2
+239,23/01/2020 14:00,Wolves,Liverpool,LIV,84,1,1 - 2,1 - 2
+240,29/01/2020 13:45,West Ham,Liverpool,LIV,35,1,,0 - 2
+240,29/01/2020 13:45,West Ham,Liverpool,LIV,52,1,,0 - 2
+240,29/01/2020 13:45,West Ham,Liverpool,WHU,90,0,0 - 2,0 - 2
+241,01/02/2020 06:30,Leicester,Chelsea,CHE,46,1,,2 - 2
+241,01/02/2020 06:30,Leicester,Chelsea,LC,54,1,,2 - 2
+241,01/02/2020 06:30,Leicester,Chelsea,LC,64,1,,2 - 2
+241,01/02/2020 06:30,Leicester,Chelsea,CHE,71,1,2 - 2,2 - 2
+242,01/02/2020 09:00,Bournemouth,Aston Villa,BOU,37,1,,2 - 1
+242,01/02/2020 09:00,Bournemouth,Aston Villa,BOU,44,1,,2 - 1
+242,01/02/2020 09:00,Bournemouth,Aston Villa,AVL,70,1,2 - 1,2 - 1
+243,01/02/2020 09:00,Crystal Palace,Sheffield Utd,SHU,58,1,,0 - 1
+243,01/02/2020 09:00,Crystal Palace,Sheffield Utd,CP,90,0,0 - 1,0 - 1
+244,01/02/2020 09:00,Liverpool,Southampton,LIV,47,1,,4 - 0
+244,01/02/2020 09:00,Liverpool,Southampton,LIV,60,1,,4 - 0
+244,01/02/2020 09:00,Liverpool,Southampton,LIV,71,1,,4 - 0
+244,01/02/2020 09:00,Liverpool,Southampton,LIV,90,1,,4 - 0
+244,01/02/2020 09:00,Liverpool,Southampton,SOU,90,0,4 - 0,4 - 0
+245,01/02/2020 09:00,Newcastle,Norwich,NEW,90,0,,0 - 0
+245,01/02/2020 09:00,Newcastle,Norwich,NOR,90,0,0 - 0,0 - 0
+246,01/02/2020 09:00,Watford,Everton,WAT,10,1,,2 - 3
+246,01/02/2020 09:00,Watford,Everton,WAT,42,1,,2 - 3
+246,01/02/2020 09:00,Watford,Everton,EVE,45,1,,2 - 3
+246,01/02/2020 09:00,Watford,Everton,EVE,45,1,,2 - 3
+246,01/02/2020 09:00,Watford,Everton,EVE,90,1,2 - 3,2 - 3
+247,01/02/2020 09:00,West Ham,Brighton,WHU,30,1,,3 - 3
+247,01/02/2020 09:00,West Ham,Brighton,WHU,45,1,,3 - 3
+247,01/02/2020 09:00,West Ham,Brighton,BHA,47,1,,3 - 3
+247,01/02/2020 09:00,West Ham,Brighton,WHU,57,1,,3 - 3
+247,01/02/2020 09:00,West Ham,Brighton,BHA,75,1,,3 - 3
+247,01/02/2020 09:00,West Ham,Brighton,BHA,79,1,3 - 3,3 - 3
+248,01/02/2020 11:30,Man Utd,Wolves,MU,90,0,,0 - 0
+248,01/02/2020 11:30,Man Utd,Wolves,WOL,90,0,0 - 0,0 - 0
+249,02/02/2020 08:00,Burnley,Arsenal,BUR,90,0,,0 - 0
+249,02/02/2020 08:00,Burnley,Arsenal,ARS,90,0,0 - 0,0 - 0
+250,02/02/2020 10:30,Spurs,Man City,TOT,63,1,,2 - 0
+250,02/02/2020 10:30,Spurs,Man City,TOT,71,1,,2 - 0
+250,02/02/2020 10:30,Spurs,Man City,MC,90,0,2 - 0,2 - 0
+251,08/02/2020 06:30,Everton,Crystal Palace,EVE,18,1,,3 - 1
+251,08/02/2020 06:30,Everton,Crystal Palace,CP,51,1,,3 - 1
+251,08/02/2020 06:30,Everton,Crystal Palace,EVE,58,1,,3 - 1
+251,08/02/2020 06:30,Everton,Crystal Palace,EVE,88,1,3 - 1,3 - 1
+252,08/02/2020 11:30,Brighton,Watford,WAT,19,1,,1 - 1
+252,08/02/2020 11:30,Brighton,Watford,BHA,78,1,1 - 1,1 - 1
+253,09/02/2020 08:00,Sheffield Utd,Bournemouth,BOU,13,1,,2 - 1
+253,09/02/2020 08:00,Sheffield Utd,Bournemouth,SHU,45,1,,2 - 1
+253,09/02/2020 08:00,Sheffield Utd,Bournemouth,SHU,84,1,2 - 1,2 - 1
+254,14/02/2020 14:00,Wolves,Leicester,WOL,90,0,,0 - 0
+254,14/02/2020 14:00,Wolves,Leicester,LC,90,0,0 - 0,0 - 0
+255,15/02/2020 06:30,Southampton,Burnley,BUR,2,1,,1 - 2
+255,15/02/2020 06:30,Southampton,Burnley,SOU,18,1,,1 - 2
+255,15/02/2020 06:30,Southampton,Burnley,BUR,60,1,1 - 2,1 - 2
+256,15/02/2020 11:30,Norwich,Liverpool,LIV,78,1,,0 - 1
+256,15/02/2020 11:30,Norwich,Liverpool,NOR,90,0,0 - 1,0 - 1
+257,16/02/2020 08:00,Aston Villa,Spurs,AVL,9,1,,2 - 3
+257,16/02/2020 08:00,Aston Villa,Spurs,TOT,27,1,,2 - 3
+257,16/02/2020 08:00,Aston Villa,Spurs,TOT,45,1,,2 - 3
+257,16/02/2020 08:00,Aston Villa,Spurs,AVL,53,1,,2 - 3
+257,16/02/2020 08:00,Aston Villa,Spurs,TOT,90,1,2 - 3,2 - 3
+258,16/02/2020 10:30,Arsenal,Newcastle,ARS,54,1,,4 - 0
+258,16/02/2020 10:30,Arsenal,Newcastle,ARS,57,1,,4 - 0
+258,16/02/2020 10:30,Arsenal,Newcastle,ARS,90,1,,4 - 0
+258,16/02/2020 10:30,Arsenal,Newcastle,ARS,90,1,,4 - 0
+258,16/02/2020 10:30,Arsenal,Newcastle,NEW,90,0,4 - 0,4 - 0
+259,17/02/2020 14:00,Chelsea,Man Utd,MU,45,1,,0 - 2
+259,17/02/2020 14:00,Chelsea,Man Utd,MU,66,1,,0 - 2
+259,17/02/2020 14:00,Chelsea,Man Utd,CHE,90,0,0 - 2,0 - 2
+260,19/02/2020 13:30,Man City,West Ham,MC,30,1,,2 - 0
+260,19/02/2020 13:30,Man City,West Ham,MC,62,1,,2 - 0
+260,19/02/2020 13:30,Man City,West Ham,WHU,90,0,2 - 0,2 - 0
+261,22/02/2020 06:30,Chelsea,Spurs,CHE,15,1,,2 - 1
+261,22/02/2020 06:30,Chelsea,Spurs,CHE,48,1,,2 - 1
+261,22/02/2020 06:30,Chelsea,Spurs,TOT,89,1,2 - 1,2 - 1
+262,22/02/2020 09:00,Burnley,Bournemouth,BUR,53,1,,3 - 0
+262,22/02/2020 09:00,Burnley,Bournemouth,BUR,61,1,,3 - 0
+262,22/02/2020 09:00,Burnley,Bournemouth,BUR,87,1,,3 - 0
+262,22/02/2020 09:00,Burnley,Bournemouth,BOU,90,0,3 - 0,3 - 0
+263,22/02/2020 09:00,Crystal Palace,Newcastle,CP,44,1,,1 - 0
+263,22/02/2020 09:00,Crystal Palace,Newcastle,NEW,90,0,1 - 0,1 - 0
+264,22/02/2020 09:00,Sheffield Utd,Brighton,SHU,26,1,,1 - 1
+264,22/02/2020 09:00,Sheffield Utd,Brighton,BHA,30,1,1 - 1,1 - 1
+265,22/02/2020 09:00,Southampton,Aston Villa,SOU,8,1,,2 - 0
+265,22/02/2020 09:00,Southampton,Aston Villa,SOU,90,1,,2 - 0
+265,22/02/2020 09:00,Southampton,Aston Villa,AVL,90,0,2 - 0,2 - 0
+266,22/02/2020 11:30,Leicester,Man City,MC,80,1,,0 - 1
+266,22/02/2020 11:30,Leicester,Man City,LC,90,0,0 - 1,0 - 1
+267,23/02/2020 08:00,Man Utd,Watford,MU,42,1,,3 - 0
+267,23/02/2020 08:00,Man Utd,Watford,MU,58,1,,3 - 0
+267,23/02/2020 08:00,Man Utd,Watford,MU,75,1,,3 - 0
+267,23/02/2020 08:00,Man Utd,Watford,WAT,90,0,3 - 0,3 - 0
+268,23/02/2020 08:00,Wolves,Norwich,WOL,19,1,,3 - 0
+268,23/02/2020 08:00,Wolves,Norwich,WOL,30,1,,3 - 0
+268,23/02/2020 08:00,Wolves,Norwich,WOL,50,1,,3 - 0
+268,23/02/2020 08:00,Wolves,Norwich,NOR,90,0,3 - 0,3 - 0
+269,23/02/2020 10:30,Arsenal,Everton,EVE,1,1,,3 - 2
+269,23/02/2020 10:30,Arsenal,Everton,ARS,27,1,,3 - 2
+269,23/02/2020 10:30,Arsenal,Everton,ARS,33,1,,3 - 2
+269,23/02/2020 10:30,Arsenal,Everton,EVE,45,1,,3 - 2
+269,23/02/2020 10:30,Arsenal,Everton,ARS,46,1,3 - 2,3 - 2
+270,24/02/2020 14:00,Liverpool,West Ham,LIV,9,1,,3 - 2
+270,24/02/2020 14:00,Liverpool,West Ham,WHU,12,1,,3 - 2
+270,24/02/2020 14:00,Liverpool,West Ham,WHU,54,1,,3 - 2
+270,24/02/2020 14:00,Liverpool,West Ham,LIV,68,1,,3 - 2
+270,24/02/2020 14:00,Liverpool,West Ham,LIV,81,1,3 - 2,3 - 2
+271,28/02/2020 14:00,Norwich,Leicester,NOR,70,1,,1 - 0
+271,28/02/2020 14:00,Norwich,Leicester,LC,90,0,1 - 0,1 - 0
+272,29/02/2020 06:30,Brighton,Crystal Palace,CP,70,1,,0 - 1
+272,29/02/2020 06:30,Brighton,Crystal Palace,BHA,90,0,0 - 1,0 - 1
+273,29/02/2020 09:00,Bournemouth,Chelsea,CHE,33,1,,2 - 2
+273,29/02/2020 09:00,Bournemouth,Chelsea,BOU,54,1,,2 - 2
+273,29/02/2020 09:00,Bournemouth,Chelsea,BOU,57,1,,2 - 2
+273,29/02/2020 09:00,Bournemouth,Chelsea,CHE,85,1,2 - 2,2 - 2
+274,29/02/2020 09:00,Newcastle,Burnley,NEW,90,0,,0 - 0
+274,29/02/2020 09:00,Newcastle,Burnley,BUR,90,0,0 - 0,0 - 0
+275,29/02/2020 09:00,West Ham,Southampton,WHU,15,1,,3 - 1
+275,29/02/2020 09:00,West Ham,Southampton,SOU,31,1,,3 - 1
+275,29/02/2020 09:00,West Ham,Southampton,WHU,40,1,,3 - 1
+275,29/02/2020 09:00,West Ham,Southampton,WHU,54,1,3 - 1,3 - 1
+276,29/02/2020 11:30,Watford,Liverpool,WAT,54,1,,3 - 0
+276,29/02/2020 11:30,Watford,Liverpool,WAT,60,1,,3 - 0
+276,29/02/2020 11:30,Watford,Liverpool,WAT,72,1,,3 - 0
+276,29/02/2020 11:30,Watford,Liverpool,LIV,90,0,3 - 0,3 - 0
+277,01/03/2020 08:00,Everton,Man Utd,EVE,3,1,,1 - 1
+277,01/03/2020 08:00,Everton,Man Utd,MU,31,1,1 - 1,1 - 1
+278,01/03/2020 08:00,Spurs,Wolves,TOT,13,1,,2 - 3
+278,01/03/2020 08:00,Spurs,Wolves,WOL,27,1,,2 - 3
+278,01/03/2020 08:00,Spurs,Wolves,TOT,45,1,,2 - 3
+278,01/03/2020 08:00,Spurs,Wolves,WOL,57,1,,2 - 3
+278,01/03/2020 08:00,Spurs,Wolves,WOL,73,1,2 - 3,2 - 3
+279,07/03/2020 06:30,Liverpool,Bournemouth,BOU,9,1,,2 - 1
+279,07/03/2020 06:30,Liverpool,Bournemouth,LIV,24,1,,2 - 1
+279,07/03/2020 06:30,Liverpool,Bournemouth,LIV,33,1,2 - 1,2 - 1
+280,07/03/2020 09:00,Arsenal,West Ham,ARS,78,1,,1 - 0
+280,07/03/2020 09:00,Arsenal,West Ham,WHU,90,0,1 - 0,1 - 0
+281,07/03/2020 09:00,Crystal Palace,Watford,CP,28,1,,1 - 0
+281,07/03/2020 09:00,Crystal Palace,Watford,WAT,90,0,1 - 0,1 - 0
+282,07/03/2020 09:00,Sheffield Utd,Norwich,SHU,36,1,,1 - 0
+282,07/03/2020 09:00,Sheffield Utd,Norwich,NOR,90,0,1 - 0,1 - 0
+283,07/03/2020 09:00,Southampton,Newcastle,NEW,79,1,,0 - 1
+283,07/03/2020 09:00,Southampton,Newcastle,SOU,90,0,0 - 1,0 - 1
+284,07/03/2020 09:00,Wolves,Brighton,WOL,90,0,,0 - 0
+284,07/03/2020 09:00,Wolves,Brighton,BHA,90,0,0 - 0,0 - 0
+285,07/03/2020 11:30,Burnley,Spurs,BUR,13,1,,1 - 1
+285,07/03/2020 11:30,Burnley,Spurs,TOT,50,1,1 - 1,1 - 1
+286,08/03/2020 09:00,Chelsea,Everton,CHE,14,1,,4 - 0
+286,08/03/2020 09:00,Chelsea,Everton,CHE,21,1,,4 - 0
+286,08/03/2020 09:00,Chelsea,Everton,CHE,51,1,,4 - 0
+286,08/03/2020 09:00,Chelsea,Everton,CHE,54,1,,4 - 0
+286,08/03/2020 09:00,Chelsea,Everton,EVE,90,0,4 - 0,4 - 0
+287,08/03/2020 11:30,Man Utd,Man City,MU,30,1,,2 - 0
+287,08/03/2020 11:30,Man Utd,Man City,MU,90,1,,2 - 0
+287,08/03/2020 11:30,Man Utd,Man City,MC,90,0,2 - 0,2 - 0
+288,09/03/2020 15:00,Leicester,Aston Villa,LC,40,1,,4 - 0
+288,09/03/2020 15:00,Leicester,Aston Villa,LC,63,1,,4 - 0
+288,09/03/2020 15:00,Leicester,Aston Villa,LC,79,1,,4 - 0
+288,09/03/2020 15:00,Leicester,Aston Villa,LC,85,1,,4 - 0
+288,09/03/2020 15:00,Leicester,Aston Villa,AVL,90,0,4 - 0,4 - 0

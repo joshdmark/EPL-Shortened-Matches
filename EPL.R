@@ -238,6 +238,27 @@ epl_goals %>%
   summarise(goals = n()) %>% 
   mutate(pct = goals / sum(goals))
 
+## combine league results for all match durations
+league_results_all <- rbind(
+  league_results %>% mutate(mins = 90)
+  ,league_results_75 %>% mutate(mins = 75)
+  ,league_results_60 %>% mutate(mins = 60))
+
+## combine league results (wide)
+league_results_all_wide <- sqldf("select 
+                L1.*,
+                L60.result as result_60, L60.team_goals as team_goals_60, 
+                    L60.opp_goals as opp_goals_60, L60.points_earned as points_earned_60, 
+                L75.result as result_75, L75.team_goals as team_goals_75, 
+                    L75.opp_goals as opp_goals_75, L75.points_earned as points_earned_75
+             from league_results L1 
+             left join league_results_60 L60 
+              on L1.game_id = L60.game_id and L1.team_id = L60.team_id and L1.opp_team_id = L60.opp_team_id
+             left join league_results_75 L75 
+              on L1.game_id = L75.game_id and L1.team_id = L75.team_id and L1.opp_team_id = L75.opp_team_id")
+
 ## write files for viz
-fwrite(compare, 'Desktop/SPORTS/EPL_outputs/epl_table_comparison.csv')
-fwrite(league_goals, 'Desktop/SPORTS/EPL_outputs/epl_league_goals.csv')
+# fwrite(compare, 'Desktop/SPORTS/EPL_outputs/epl_table_comparison.csv')
+# fwrite(league_goals, 'Desktop/SPORTS/EPL_outputs/epl_league_goals.csv')
+# fwrite(league_results_all, 'Desktop/SPORTS/EPL_outputs/league_results_all.csv')
+# fwrite(league_results_all_wide, 'Desktop/SPORTS/EPL_outputs/league_results_all_wide.csv')

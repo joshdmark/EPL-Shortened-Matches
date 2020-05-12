@@ -239,5 +239,5 @@ epl_goals %>%
   mutate(pct = goals / sum(goals))
 
 ## write files for viz
-# compare
-# league_goals
+fwrite(compare, 'Desktop/SPORTS/EPL_outputs/epl_table_comparison.csv')
+fwrite(league_goals, 'Desktop/SPORTS/EPL_outputs/epl_league_goals.csv')

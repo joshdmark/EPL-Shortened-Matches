@@ -5,9 +5,9 @@
 ### Takeaways & Observations 
 1. If matches were only 75 minutes, Top 5 would be completely unchanged. 
 
-2. Biggest movers DOWN: WOL 6 --> 14, NEW 13 --> 20 
+2. Biggest movers DOWN: Wolverhampton 6 --> 14, Newcastle 13 --> 20 
 
-3. Biggest mover UP: WAT 17 --> 13
+3. Biggest movers UP: Watford 17 --> 12, Everton 12 --> 8
 
 4. Liverpool has been dominant in the final 15 minutes of 1H. (+16 GD, 18 GF, 2 GA)
 

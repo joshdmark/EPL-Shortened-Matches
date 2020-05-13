@@ -15,3 +15,5 @@
 	- Currently in 6th, would be 14th with 75' matches, bottom of table with 60' matches.
 
 #### Note: This analysis makes an assumption that matches would end at the 75' or 60' mark. Results would of course differ if accounting for stoppage time, plus end of match adjustments.
+
+R code located in `EPL.r` file. Input data in `data` folder, output files in `EPL_outputs` folder, & visualization in `SPORTS.twbx`.
